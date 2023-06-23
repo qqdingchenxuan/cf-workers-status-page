@@ -32,8 +32,14 @@ monitors:
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true
 
-  - id: blog-cloudflare-com
+  - id: blog
     name: The Cloudflare Blog
-    url: 'https://blog.cloudflare.com/'
+    url: 'https://www.fell.eu.org'
+    method: GET
+    expectStatus: 200
+
+    - id: disk
+    name: The Cloudflare Blog
+    url: 'https://pan.fell.eu.org'
     method: GET
     expectStatus: 200
