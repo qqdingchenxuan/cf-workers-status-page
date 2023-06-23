@@ -1,0 +1,9 @@
+- Name: CF_API_TOKEN (1XOwvQAON_urrlso3ZHThBUbosk_OZjJSj_SD2vY)
+
+- Name: CF_ACCOUNT_ID (25cb69d8014edea95a0bf4e17b6ebe0c)
+
+- Name: SECRET_SLACK_WEBHOOK_URL (optional)
+- Value: your-slack-webhook-url
+
+- Name: SECRET_DISCORD_WEBHOOK_URL (optional)
+- Value: your-discord-webhook-url
